@@ -7,4 +7,6 @@ print("You can only see the pound sign when you want to read")
 
 print("But it is essential to read bc documentation")
 
+# Play testing this 
 
+print("How long is this going to take")
