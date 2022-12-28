@@ -20,8 +20,9 @@ def black():
     else:
         exit(0)
 
-    
+#Kill the pregnant lady and now your here, pick what test you would take, math or science   
 def red():
+
     print("So you decided to kill the pregnant lady.")
     print("You should wonder why you chose that not the blue path")
 
@@ -37,6 +38,7 @@ def red():
     else:
         exit(0)
 
+# Kill the 5 people and now your here, pick your fav number 1 or 2, or just breeak the rules
 def blue():
 
 
@@ -54,11 +56,14 @@ def blue():
         print("BREAK THE RULES MAYNEE")
         exit(0)
 
+#Take the math test, Good job!
 def MATH():
     print("You love number dont you!!")
 
+#Take the science test, Good job!
 def SCIENCE():  
     print("You love concepts dont you!!")
+
 
 black()
 
